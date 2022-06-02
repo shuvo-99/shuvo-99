@@ -35,6 +35,6 @@ I am currently an undergraduate student studying CSE. I like to solve problems o
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvo-99&show_icons=true&locale=en" alt="shuvo-99" /></p>
 <br>
-![GitHub metrics](https://metrics.lecoq.io/shuvo-99)  
+(https://metrics.lecoq.io/shuvo-99)  
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo-99&" alt="shuvo-99" /></p>

@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Anonto Shuvo</h1>
 <h3 align="center">I am a Programmer, Web Developer and Graphics Designer</h3>
 
-<h5>Designer
-I am currently an undergraduate student studying CSE. I like to solve problems on hackerrank, leetcode, URI online judge and Code Forces. I have learnt full-stack web development (MERN) and trying to improve myself by creating projects. Besides this, I like graphics designing and video editing. <h5>
+<h3>Designer
+I am currently an undergraduate student studying CSE. I like to solve problems on hackerrank, leetcode, URI online judge and Code Forces. I have learnt full-stack web development (MERN) and trying to improve myself by creating projects. Besides this, I like graphics designing and video editing. <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-99&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-99" /> </p>
 
@@ -35,7 +35,7 @@ I am currently an undergraduate student studying CSE. I like to solve problems o
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvo-99&show_icons=true&locale=en" alt="shuvo-99" /></p>
 <br>
-(https://metrics.lecoq.io/shuvo-99)  
+![GitHub metrics](https://metrics.lecoq.io/shuvo-99)  
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo-99&" alt="shuvo-99" /></p>
 

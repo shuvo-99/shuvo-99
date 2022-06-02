@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Anonto Shuvo</h1>
 <h3 align="center">I am a Programmer, Web Developer and Graphics Designer</h3>
 
-<h3>Designer
+<h3>
 I am currently an undergraduate student studying CSE. I like to solve problems on hackerrank, leetcode, URI online judge and Code Forces. I have learnt full-stack web development (MERN) and trying to improve myself by creating projects. Besides this, I like graphics designing and video editing. <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-99&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-99" /> </p>

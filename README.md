@@ -10,9 +10,7 @@ I am currently an undergraduate student studying CSE. I like to solve problems o
 
 <p align="left"> <a href="https://twitter.com/anontoshuvo" target="blank"><img src="https://img.shields.io/twitter/follow/anontoshuvo?logo=twitter&style=for-the-badge" alt="anontoshuvo" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📫 How to reach me **anontoshuvo99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,6 +45,14 @@ I am currently an undergraduate student studying CSE. I like to solve problems o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shuvo-99&icon=0&color=0)](https://visitcount.itsvg.in) -->
+ 
+
+
+- 🌱 I’m currently learning **Full Stack Web Development (MERN)**
+
+- 📫 How to reach me **anontoshuvo99@gmail.com** 
+ 
+- 👨‍💻 Check my portfolio **https://md-anonto-shuvo-portfolio.netlify.app/**
  
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shuvo-99&theme=radical&no-frame=false&no-bg=false&margin-w=4)

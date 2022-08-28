@@ -49,7 +49,7 @@ I am currently an undergraduate student studying CSE. I like to solve problems o
 ---
 [![](https://visitcount.itsvg.in/api?id=shuvo-99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently a ** Jr. Full Stack Web Developer (MERN)**
+- 🌱 I’m currently a **Jr. Full Stack Web Developer (MERN)**
 
 - 📫 Email **anontoshuvo99@gmail.com** 
  

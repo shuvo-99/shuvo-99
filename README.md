@@ -2,7 +2,7 @@
 <h3 align="center">I am a Programmer, Web Developer and Graphics Designer</h3>
 
 <h3>
-I am a Computer Science (CS) graduate from BRAC University. Currently working as a Software Engineer Intern. I have knowledge on MERN stack. Moreover, I like to teach and also like graphics design. <h3>
+I am a Computer Science (CS) graduate. Currently working as a Software Engineer Intern. I have knowledge on MERN stack. Moreover, I like to teach and also like graphics design. <h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-99&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-99" /> </p>
 

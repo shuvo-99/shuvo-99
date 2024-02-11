@@ -49,7 +49,7 @@ I am a Computer Science (CS) graduate. Currently working as a Software Engineer 
 ---
 [![](https://visitcount.itsvg.in/api?id=shuvo-99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently a **Jr. Full Stack Web Developer (MERN)**
+- 🌱 I’m currently a **Software Engineer Intern (Front-end React JS developer)**
 
 - 📫 Email **anontoshuvo99@gmail.com** 
  

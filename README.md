@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Md. Anonto Shuvo</h1>
-<h3 align="center">I am a Programmer, Web Developer and Graphics Designer</h3>
+<h3 align="center">Programmer, Web Developer and Graphics Designer</h3>
 
 <h3>
-I am a Computer Science (CS) graduate. Currently working as a Software Engineer. I have knowledge on MERN stack. Moreover, I like to teach and also like graphics design. <h3>
+Computer Science (CS) graduate. Currently employed as a Software Engineer. Working on PERN and MERN stack. Moreover, I like to teach and like graphics design. <h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-99&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-99" /> </p>
 

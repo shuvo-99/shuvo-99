@@ -2,7 +2,7 @@
 <h3 align="center">I am a Programmer, Web Developer and Graphics Designer</h3>
 
 <h3>
-I am a Computer Science (CS) graduate. Currently working as a Software Engineer Intern. I have knowledge on MERN stack. Moreover, I like to teach and also like graphics design. <h3>
+I am a Computer Science (CS) graduate. Currently working as a Software Engineer. I have knowledge on MERN stack. Moreover, I like to teach and also like graphics design. <h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-99&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-99" /> </p>
 
@@ -49,7 +49,7 @@ I am a Computer Science (CS) graduate. Currently working as a Software Engineer 
 ---
 [![](https://visitcount.itsvg.in/api?id=shuvo-99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently a **Software Engineer Intern (Front-end React JS developer)**
+- 🌱 I’m currently a **Software Engineer**
 
 - 📫 Email **anontoshuvo99@gmail.com** 
  

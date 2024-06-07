@@ -49,8 +49,6 @@ I am a Computer Science (CS) graduate. Currently working as a Software Engineer.
 ---
 [![](https://visitcount.itsvg.in/api?id=shuvo-99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently a **Software Engineer**
-
 - 📫 Email **anontoshuvo99@gmail.com** 
  
 - 👨‍💻 Portfolio **https://md-anonto-shuvo-portfolio.netlify.app/**

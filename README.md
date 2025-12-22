@@ -1,15 +1,15 @@
- <h1 align="center">Hi 👋, I'm Md. Anonto Shuvo</h1>
+<!-- 
+<h1 align="center">Hi 👋, I'm Md. Anonto Shuvo</h1>
 <h3 align="center">Programmer, Web Developer and Graphics Designer</h3>
 
-<h3>
+<h3> 
 Computer Science (CS) graduate. Currently employed as a Software Engineer. Working on PERN and MERN stack. Moreover, I like to teach and like graphics design. <h3>
-
+-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-99&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvo-99" alt="shuvo-99" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anontoshuvo" target="blank"><img src="https://img.shields.io/twitter/follow/anontoshuvo?logo=twitter&style=for-the-badge" alt="anontoshuvo" /></a> </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -46,6 +46,7 @@ Computer Science (CS) graduate. Currently employed as a Software Engineer. Worki
 ---
 [![](https://visitcount.itsvg.in/api?id=shuvo-99&icon=0&color=0)](https://visitcount.itsvg.in) -->
  
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=shuvo-99&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -106,8 +107,35 @@ FRAMEWORKS, PLATFORMS & LIBRARIES
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo-99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=shuvo-99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shuvo-99&theme=radical&hide_border=false)<br/>
+-->
 
+<div>
+<!-- Title -->
+<!-- <h1 align="center">Hi 👋, I'm YOUR NAME</h1> -->
 
+<!-- Typing SVG -->
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;React+%7C+Node+%7C+Next.js;Clean+Code+Advocate" alt="Typing SVG" />
+</p> -->
+
+<div align="center">
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvo-99&theme=radical)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shuvo-99&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shuvo-99&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shuvo-99&theme=radical)
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shuvo-99&theme=radical&utcOffset=0) -->
+
+</div>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shuvo-99&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+</div>
 
 
 
